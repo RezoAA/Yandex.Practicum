@@ -14,3 +14,8 @@ This section focuses on data preprocessing. In addition, the following issues we
 Project Description
 
 *The customer is the credit department of the bank. It is necessary to understand whether the marital status and the number of children of the client affect the fact of repayment of the loan on time. Input data from the bank — statistics on the solvency of customers.*
+
+## Part 2 Data analysis
+Visualization of data using histograms and boxes with moustaches. Studying data slices. Finding relationships of different parameters in the data. Merging tables. Getting conclusions from grouped data.
+
+### Project 2: 
