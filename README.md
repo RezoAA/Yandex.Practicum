@@ -31,4 +31,8 @@ Project Description
 
 *It is necessary to make a preliminary analysis of tariffs on a small sample of customers. You have the data of 500 Megalyne users at your disposal: who they are, where they come from, what tariff they use, how many calls and messages each sent in 2018. It is necessary to analyze the behavior of customers and conclude which tariff is better.*
 
+## Prefabricated_project_1: Analysis of the gaming products market
+Project Description
+
+*Completed the first block of courses. It's time to test your knowledge and solve an analytical case.The bottom line is that I am positioned as a data scientist in the online store "Streamchik", which sells computer games all over the world. Historical data on game sales, user and expert ratings, genres and platforms (for example, Xbox or PlayStation) are available from open sources. It is necessary to identify patterns that determine the success of the game. This will allow you to bet on a potentially popular product and plan advertising campaigns.*
 
