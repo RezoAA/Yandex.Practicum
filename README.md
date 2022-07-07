@@ -36,3 +36,14 @@ Project Description
 
 *Completed the first block of courses. It's time to test your knowledge and solve an analytical case.The bottom line is that I am positioned as a data scientist in the online store "Streamchik", which sells computer games all over the world. Historical data on game sales, user and expert ratings, genres and platforms (for example, Xbox or PlayStation) are available from open sources. It is necessary to identify patterns that determine the success of the game. This will allow you to bet on a potentially popular product and plan advertising campaigns.*
 
+## Part 4 Introduction to Machine Learning
+Is it possible to get rid of the "human factor" and determine the value of the object automatically by applying machine learning? This section will answer this question.
+
+### Project 4: ML_recommendation_model_tariffs
+Project Description
+
+*The mobile operator Megaline found out that many customers use archive tariffs. They want to build a system capable of analyzing customer behavior and offering users a new tariff: "Smart" or "Ultra".*
+
+
+
+
