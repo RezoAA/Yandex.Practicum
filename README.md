@@ -9,3 +9,7 @@ Tips: For data science projects with python, I would recommend you to install nu
 
 ## Part 1 Intro to Data_Science
 This section focuses on data preprocessing. In addition, the following issues were considered: Working with passes. Determination of abnormal values. Data type conversion. The main methods of searching for duplicates. Working with imperfect real data sets. 
+
+### Project 1: research_borrowers
+*Project Description
+The customer is the credit department of the bank. It is necessary to understand whether the marital status and the number of children of the client affect the fact of repayment of the loan on time. Input data from the bank — statistics on the solvency of customers.*
