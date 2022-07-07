@@ -18,4 +18,17 @@ Project Description
 ## Part 2 Data analysis
 Visualization of data using histograms and boxes with moustaches. Studying data slices. Finding relationships of different parameters in the data. Merging tables. Getting conclusions from grouped data.
 
-### Project 2: 
+### Project 2: market_value_estate
+Project Description
+
+*You need to learn how to determine the market value of real estate. The task is to set the parameters. This will allow you to build an automated system: it will track anomalies and fraudulent activity.*
+
+## Part 3 Statistical data analysis
+The study of objects and their relationships by statistical methods. Samples and statistical significance. Detection and treatment of anomalies. Project. Analyze the tariffs of the federal mobile operator.
+
+### Project 3: determination_promising_tariff
+Project Description
+
+*It is necessary to make a preliminary analysis of tariffs on a small sample of customers. You have the data of 500 Megalyne users at your disposal: who they are, where they come from, what tariff they use, how many calls and messages each sent in 2018. It is necessary to analyze the behavior of customers and conclude which tariff is better.*
+
+
