@@ -129,4 +129,4 @@
 
 **Получены следующие результаты работы:**
 
-В работе представлены следующие модели машинного обучения: RandomForestClassifier, CatBoostClassifier, LGBMClassifier,  SGDClassifier, LogisticRegression,  DummyClassifier. Лучший результат ROC-AUC_test 0.8950   показала модель LGBMClassifier с показателем 0.8950.
+В работе представлены следующие модели машинного обучения: RandomForestClassifier, CatBoostClassifier, LGBMClassifier,  SGDClassifier, LogisticRegression,  DummyClassifier. Лучший результат ROC-AUC_test 0.8950 показала модель LGBMClassifier.
